@@ -39,9 +39,4 @@ Upon running the model, the species of a given flower based on its attributes wi
 
 Predicted species: **Setosa**
 
-#### Contributions
-Feel free to fork this repo, open issues, or submit pull requests. Contributions are welcome!
 
----
-
-Feel free to adjust and add more specific details depending on the exact approach and results in your project!
